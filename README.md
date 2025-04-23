@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6a0dad&size=32&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Maria+Eduarda...;I'm+a+student+of+Computer+Science+at+IFCE.;Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6a0dad&size=32&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Maria+Eduarda...;Welcome!)](https://git.io/typing-svg)
 
 <br/>
 
