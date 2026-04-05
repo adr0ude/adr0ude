@@ -3,7 +3,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/adr0ude?template=classic&base=header,activity,community,repositories,metadata&base.indepth=false&config.timezone=America%2FFortaleza" alt="Metrics" width="100%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adr0ude&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
